@@ -99,6 +99,16 @@ button {
 /* Button start */
 
 /* Button slutt */
+.button-primary {
+  background-color: var(--button-primary-background-color);
+color: var(--button-color);
+font-size:var(--button-font-size) ;
+line-height: var(--button-line-height);
+border-radius: var(--button-border-radius);
+padding: var(--button-padding);
+cursor: pointer;
+text-decoration: none;
+}
 
 /* Card start */
 .card {
